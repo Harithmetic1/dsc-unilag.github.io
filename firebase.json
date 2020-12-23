@@ -6,6 +6,11 @@
       "**/.*",
       "**/node_modules/**"
     ],
+<<<<<<< HEAD
+=======
+    "cleanUrls": true,
+    "trailingSlash": false,
+>>>>>>> 6d9414a6f9da9bb1b40a2f94b2b256484e2ec3eb
     "redirects": [
       {
         "source": "/seg",
@@ -22,12 +27,20 @@
         "destination": "https://join.slack.com/t/dscunilag/shared_invite/zt-ai1jj62u-Dib__CFbcPSSiNafxhacGw",
         "type": 301
       },
+<<<<<<< HEAD
 	{
+=======
+	    {
+>>>>>>> 6d9414a6f9da9bb1b40a2f94b2b256484e2ec3eb
         "source": "/sossa",
         "destination": "https://docs.google.com/forms/d/e/1FAIpQLSfSquSHDKC-v5mQiKOOFTV7d-9Y4VWl3xjhncnVrW6SGsPMlQ/viewform",
         "type": 301
       },
+<<<<<<< HEAD
 {
+=======
+      {
+>>>>>>> 6d9414a6f9da9bb1b40a2f94b2b256484e2ec3eb
         "source": "/attend",
         "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdCl8Xxo4K8MR4RUHMZQKQGDpmoxLprurUMdGpI9kFiSINJPA/viewform",
         "type": 301
@@ -58,9 +71,15 @@
         "type": 301
       },
       {
+<<<<<<< HEAD
         "source": "/",
         "destination": "https://dscunilag.dev",
         "type": 301  
+=======
+        "source": "/hacktoberfest",
+        "destination": "https://organize.mlh.io/participants/events/4421-hacktoberfest-online-meetup-in-university-of-lagos",
+        "type": 301
+>>>>>>> 6d9414a6f9da9bb1b40a2f94b2b256484e2ec3eb
       },
       {
         "source": "/studygroup",
@@ -73,11 +92,14 @@
         "type": 301
       },
       {
+<<<<<<< HEAD
         "source": "/hacktoberfest",
         "destination": "https://organize.mlh.io/participants/events/4421-hacktoberfest-online-meetup-in-university-of-lagos",
         "type": 301
       },
       {
+=======
+>>>>>>> 6d9414a6f9da9bb1b40a2f94b2b256484e2ec3eb
         "source": "/gitworkshop",
         "destination": "https://dsc.community.dev/events/details/developer-student-clubs-university-of-lagos-presents-git-and-github-workshop/#/",
         "type": 301
@@ -131,7 +153,17 @@
         "source": "/eventslides",
         "destination": "https://docs.google.com/document/d/1DMvmUpY5Gz_CtMzGD26TTM6A_-mteIMS-HxglPXpLfs/edit?usp=drivesdk",
         "type": 301
+<<<<<<< HEAD
       }
 	] 
+=======
+      },
+      {
+        "source": "/infosession",
+        "destination": "https://dsc.community.dev/events/details/developer-student-clubs-university-of-lagos-presents-info-session-by-developer-student-clubs-university-of-lagos/",
+        "type": 301
+      }
+	  ] 
+>>>>>>> 6d9414a6f9da9bb1b40a2f94b2b256484e2ec3eb
   }
 }
